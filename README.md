@@ -1,7 +1,3 @@
-# Advanced-Multi-Objective-Delivery-Optimization
-
-## GitHub Project Overview
-
 # 🚚 Advanced Multi-Objective Delivery Optimization System
 
 This project focuses on solving a real-world multi-objective optimization problem in delivery and logistics systems using both deterministic optimization techniques and heuristic algorithms. The system aims to optimize delivery operations by minimizing transportation cost, delivery time, and operational risk while improving efficiency and resource utilization. 
